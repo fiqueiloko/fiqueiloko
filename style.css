@@ -41,8 +41,8 @@ justify-content: center;
 }
 
 body {
-background-color: rgb(241, 15, 226);
-color: rgb(255, 229, 248);
+background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 
 font-family: "Fugaz One", sans-serif;
 margin: 0px;
@@ -54,7 +54,7 @@ font-size: 50px;
 text-align: center;
 border-bottom:dashed 5px rgb(230, 229, 231);
 padding: 30px;
-color: rgb(168, 143, 236);
+color: rgb(253, 253, 253);
 }
 
 h1 {
@@ -68,7 +68,7 @@ padding-left: 30px;
 }
 
 .chamada{
-background-color: blueviolet;
+background-color: rgb(0, 0, 0);
 padding-bottom: 80px;
 padding-top: 80px;
 display:flex;
